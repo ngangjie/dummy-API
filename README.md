@@ -1,4 +1,4 @@
-# dummy-API
+# php_blog
 This project has three main section.
 installation: install AMPPS server.
 create a project and navigate to ampps and save your project in the www folder.
